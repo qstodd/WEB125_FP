@@ -1,0 +1,66 @@
+body {
+	background: linear-gradient(to top right, #fff 0%, #6699ff 100%) no-repeat fixed center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: navy;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: navy;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    color: navy;
+    text-align: center;
+}
+
+h4 {
+    color: navy;
+    text-align: center;
+}
+
+
+h5 {
+    color: navy;
+    text-align: center;
+}
+
+
+p {
+    color: navy;
+    margin: 100px;
+        
+}
+
+.navbar ul {
+    list-style-type: none;
+    background-color: navy;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin: 20px
+}
+
+footer {
+    text-align: center;
+    
+    }
+
+
